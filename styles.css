@@ -84,3 +84,9 @@ p {
   font-size: 0.6rem;
   margin: 5px 0;
 }
+
+footer {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  text-align: center;
+}
